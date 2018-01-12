@@ -3,12 +3,7 @@
 	<div class="row">
 
 		<div class="col-md-3">
-			<p class="lead">Shop Name</p>
-			<div class="list-group">
-				<a href="#" class="list-group-item">Printable</a> <a href="#"
-					class="list-group-item">Cupcake Wrappers</a> <a href="#"
-					class="list-group-item">Authentic Dragon Bones</a>
-			</div>
+			<%@ include file="./shared/sidebar.jsp" %>
 		</div>
 
 		<div class="col-md-9">
@@ -26,15 +21,15 @@
 						</ol>
 						<div class="carousel-inner">
 							<div class="item active">
-								<img class="slide-image" src="http://placehold.it/800x300"
+								<img class="slide-image" src="https://www.redwolf.in/image/cache/catalog/sliders/new-got-hoodie-slider-1122x400.jpg.pagespeed.ce.x_7yfdW2Rv.jpg"
 									alt="">
 							</div>
 							<div class="item">
-								<img class="slide-image" src="http://placehold.it/800x300"
+								<img class="slide-image" src="https://www.redwolf.in/image/cache/catalog/sliders/redwolf-cool-t-shirts-banner-1122x400.jpg.pagespeed.ce.H6L43p9pzY.jpg"
 									alt="">
 							</div>
 							<div class="item">
-								<img class="slide-image" src="http://placehold.it/800x300"
+								<img class="slide-image" src="https://www.redwolf.in/image/cache/catalog/sliders/harry-potter-slider-1122x400.png.pagespeed.ce.DrMWMw35zF.png"
 									alt="">
 							</div>
 						</div>

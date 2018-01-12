@@ -9,6 +9,13 @@
 	<url>http://maven.apache.org</url>
 	<dependencies>
 
+		<!-- Link Project Backend -->
+		<dependency>
+			<groupId>com.pnm</groupId>
+			<artifactId>shoppingbackend</artifactId>
+			<version>0.0.1-SNAPSHOT</version>
+		</dependency>
+
 		<!-- Java EE -->
 		<dependency>
 			<groupId>javax</groupId>
@@ -38,7 +45,7 @@
 			<artifactId>jstl</artifactId>
 			<version>1.2</version>
 		</dependency>
-		
+
 	</dependencies>
 
 	<build>
